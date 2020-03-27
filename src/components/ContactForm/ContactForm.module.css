@@ -1,0 +1,14 @@
+.form {
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 0 auto 50px;
+  border: 1px solid #000;
+}
+
+.input {
+  width: 230px;
+  display: block;
+  margin-bottom: 30px;
+  padding: 3px 0 3px 10px;
+  line-height: 18px;
+}
